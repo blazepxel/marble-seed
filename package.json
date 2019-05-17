@@ -13,6 +13,7 @@
     "url": "github.com/latteware/marble-seed"
   },
   "dependencies": {
+    "@sendgrid/mail": "^6.4.0",
     "@tinymce/tinymce-react": "^3.0.1",
     "app-module-path": "^2.2.0",
     "babel-core": "^6.25.0",
